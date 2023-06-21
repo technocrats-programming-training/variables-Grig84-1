@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         // DO NOT CHANGE 
         String firstName = args[0];
-        String lastName = args[1];
+        String lastName = args[1]; Hi therer ew ujawef oilh 
         int age = 0;
         try {
             age = Integer.parseInt(args[2]);
